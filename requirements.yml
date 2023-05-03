@@ -1,0 +1,6 @@
+---
+- name: nginxinc.nginx
+  src: nginxinc.nginx
+
+- name: nginx_config
+  src: nginxinc.nginx_config
