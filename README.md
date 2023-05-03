@@ -16,4 +16,5 @@ Ce dépôt contient les fichiers de configuration et les playbooks Ansible pour 
 ├── inventory_vagrant.ini # Inventaire Ansible pour les machines virtuelles Vagrant
 
 ├── playbooks # Dossier contenant les playbooks Ansible
+
 └── Vagrantfile # Fichier de configuration Vagrant pour créer des machines virtuelles de test
